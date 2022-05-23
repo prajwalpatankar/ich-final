@@ -1,0 +1,9 @@
+env
+env/
+node_modules
+node_modules/
+frontend/public/
+backend/env
+backend/env/
+backend/ich/media
+backend/ich/media/
